@@ -1,0 +1,11 @@
+com\example\model\Aluno.class
+com\example\Main.class
+com\example\controler\AlunoControler.class
+com\example\dao\DisciplinaDAO.class
+com\example\model\Disciplina.class
+com\example\model\Turma.class
+com\example\dao\AlunoDao.class
+com\example\util\HibernateUtil.class
+com\example\dao\TurmaDAO.class
+com\example\service\AlunoService.class
+com\example\repository\AlunoRepository.class
